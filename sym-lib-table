@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TPS62901RPJR")(type "Legacy")(uri "${KIPRJMOD}/Libriaries/LIB_TPS62901RPJR/TPS62901RPJR/KiCad/TPS62901RPJR.lib")(options "")(descr ""))
+  (lib (name "BH1750")(type "Legacy")(uri "${KIPRJMOD}/Libriaries/BH1750/BH1750FVI-TR.lib")(options "")(descr ""))
+)

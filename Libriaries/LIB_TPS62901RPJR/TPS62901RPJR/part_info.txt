@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS62901RPJR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=9
+Version=1.8
+Released=2021-06-01 11:17:36
+Downloaded=2022-11-13 13:04:27
+3D=Y
