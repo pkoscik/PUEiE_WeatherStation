@@ -1,0 +1,11 @@
+# POWER
+3x AAA battery
+
+RP2040: ... 600mA @ 3.3V
+LORA:   ... 100mA @ 3.3V
+BH1750: ... 0mA   @ 3.3V
+BMP280: ... 0mA   @ 3.3V
+
+BMP280: 8PIN pkg, I2C, 2GPIO + VCC/GND (~0mA, VDD/VDDIO ~3.3V)
+
+
