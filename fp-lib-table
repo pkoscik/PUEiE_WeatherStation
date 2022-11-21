@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "TPS62901RPJR")(type "KiCad")(uri "${KIPRJMOD}/Libriaries/LIB_TPS62901RPJR/TPS62901RPJR/KiCad")(options "")(descr ""))
   (lib (name "BH1750")(type "KiCad")(uri "${KIPRJMOD}/Libriaries/BH1750")(options "")(descr ""))
+  (lib (name "Flashs")(type "KiCad")(uri "${KIPRJMOD}/Libriaries/W25Q128JVSIQ")(options "")(descr ""))
 )
