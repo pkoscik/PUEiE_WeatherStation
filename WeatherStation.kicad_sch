@@ -2595,7 +2595,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 326036b4-e5ff-492b-9401-44c48edf9030)
   )
-  (text "R3, R4 close RP2040\n" (at 27.94 49.53 0)
+  (text "R1, R2 close RP2040\n" (at 27.94 49.53 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 3405dea6-1d8c-49ab-a5dc-9338890c6701)
   )
